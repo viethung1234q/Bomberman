@@ -8,5 +8,8 @@ Members contribute to this Project:
 
 3. Pham Duc Dat - 19021239
 
-**NOTE
-Please DELETE the line in "MONSTER_PVP.txt" file for code running properly.
+
+
+NOTE: 
+  + Please DELETE the line in "MONSTER_PVP.txt" file and EXTRACT menu.zip and play_game.zip for code running properly.
+  ( I can't upload empty file, also the background music is too big so i have to compress them in .zip file. ) 
